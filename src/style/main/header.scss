@@ -1,0 +1,41 @@
+#header {
+  background-color: #252F3D;
+  height: 50px;
+  @media (max-width: 1050px) {
+    height: 42px;
+  }
+  .header-style-large-screen {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px 137px 13px 127px;
+    @media (max-width: 1050px) {
+      display: none;
+    }
+  }
+  .header-text {
+    color: #FFF;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: Manrope, serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
+    text-transform: capitalize;
+    margin-left: 8px;
+  }
+  .header-image {
+    width: 22px;
+    height: 22px;
+  }
+  .header-style-small-screen {
+    @media (min-width: 1051px) {
+      display: none;
+    }
+    @media (max-width: 1050px) {
+      display: flex;
+    }
+
+  }
+}
