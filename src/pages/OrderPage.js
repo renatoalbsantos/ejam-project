@@ -78,7 +78,7 @@ const renderSteps = (arraySteps: any = [], actualStep: number = 3) => {
                                        <span className={"order-page-step-text-small-screen-none"}>
                                            {"Step " + (index+1) + ": "}
                                        </span>
-                                       {(index + 1) === actualStep ? <b>{step?.text}</b> : step?.text}
+                                       {(index + 1) === actualStep ? <b className={"manrope-bold"} >{step?.text}</b> : step?.text}
                                    </Typography>
                                </Grid>
                            </Grid>
@@ -385,7 +385,7 @@ function OrderPage() {
                                         <Typography
                                             className={"order-page-main-content-container-right-part-tick-text"}
                                         >
-                                            Negative Ion Technology may <b>help with allergens</b>
+                                            Negative Ion Technology may <b className={"manrope-bold"}>help with allergens</b>
                                         </Typography>
                                     </Grid>
                                     <Grid
@@ -402,7 +402,7 @@ function OrderPage() {
                                         <Typography
                                             className={"order-page-main-content-container-right-part-tick-text"}
                                         >
-                                            Designed for <b>air rejuvenation</b>
+                                            Designed for <b className={"manrope-bold"}>air rejuvenation</b>
                                         </Typography>
                                     </Grid>
                                     <Grid
@@ -419,7 +419,7 @@ function OrderPage() {
                                         <Typography
                                             className={"order-page-main-content-container-right-part-tick-text"}
                                         >
-                                            <b>Perfect for every room</b> in all types of places.
+                                            <b className={"manrope-bold"}>Perfect for every room</b> in all types of places.
                                         </Typography>
                                     </Grid>
                                 </Grid>
