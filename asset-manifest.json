@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ejam-project/static/css/main.450d461f.css",
-    "main.js": "/ejam-project/static/js/main.6ead702f.js",
+    "main.css": "/ejam-project/static/css/main.45b37da2.css",
+    "main.js": "/ejam-project/static/js/main.3ca8732f.js",
     "static/js/787.a56177c4.chunk.js": "/ejam-project/static/js/787.a56177c4.chunk.js",
     "static/media/profile-image.svg": "/ejam-project/static/media/profile-image.7fd321932c02093a74522fb143cdba8c.svg",
     "static/media/satisfation-guarantee.svg": "/ejam-project/static/media/satisfation-guarantee.03ce843c6b787db607c5351341104f8d.svg",
@@ -34,12 +34,12 @@
     "static/media/thick.svg": "/ejam-project/static/media/thick.e5d6714736539d4635722b0bafdd0cd5.svg",
     "static/media/arrow-back-white.svg": "/ejam-project/static/media/arrow-back-white.9e0d05a256bdb5b6eaff157152d0aa75.svg",
     "static/media/arrow-forward-white.svg": "/ejam-project/static/media/arrow-forward-white.c98ee39bcac3b5292cfb32dc928391ff.svg",
-    "main.450d461f.css.map": "/ejam-project/static/css/main.450d461f.css.map",
-    "main.6ead702f.js.map": "/ejam-project/static/js/main.6ead702f.js.map",
+    "main.45b37da2.css.map": "/ejam-project/static/css/main.45b37da2.css.map",
+    "main.3ca8732f.js.map": "/ejam-project/static/js/main.3ca8732f.js.map",
     "787.a56177c4.chunk.js.map": "/ejam-project/static/js/787.a56177c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.450d461f.css",
-    "static/js/main.6ead702f.js"
+    "static/css/main.45b37da2.css",
+    "static/js/main.3ca8732f.js"
   ]
 }
