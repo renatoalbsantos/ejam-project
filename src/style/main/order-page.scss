@@ -53,7 +53,7 @@
       color: #000;
       leading-trim: both;
       text-edge: cap;
-      font-family: 'Manrope', serif;
+      font-family: 'ManropeBold', serif;
       font-size: 48px;
       font-style: normal;
       font-weight: 400;
@@ -219,7 +219,7 @@
             }
             .order-page-comments-user-name {
               color: #333;
-              font-family: 'Manrope', serif;
+              font-family: 'ManropeBold', serif;
               font-size: 14px;
               font-style: normal;
               font-weight: 700;
@@ -273,7 +273,7 @@
           }
         }
         .order-page-main-content-container-right-container-price {
-          margin-bottom: 25px;
+          margin-bottom: 13px;
            @media (max-width: 650px) {
              margin-bottom: 27.5px;
            }
@@ -306,7 +306,7 @@
                 text-decoration: line-through;
                 leading-trim: both;
                 text-edge: cap;
-                font-family: 'Manrope', serif;
+                font-family: 'ManropeBold', serif;
                 font-size: 16px;
                 font-style: normal;
                 font-weight: 600;
@@ -320,7 +320,7 @@
                 color: #2C7EF8;
                 leading-trim: both;
                 text-edge: cap;
-                font-family: 'Manrope', serif;
+                font-family: 'ManropeBold', serif;
                 font-size: 22px;
                 font-style: normal;
                 font-weight: 600;
@@ -412,7 +412,7 @@
           }
         }
         .order-page-main-content-container-right-part-text {
-          margin-bottom: 23px;
+          margin-bottom: 20px;
           color: black;
           leading-trim: both;
           text-edge: cap;
@@ -456,7 +456,7 @@
           border-radius: 10px;
           background-color: #EDF3FD;
           padding: 16px 24px;
-          margin-bottom: 32px;
+          margin-bottom: 25px;
           @media (max-width: 650px) {
             width: 320px;
             padding: 16px 12px;
@@ -517,14 +517,14 @@
             }
             .grid-button-container {
               display: flex;
-              padding: 13px 64px;
+              padding: 16px 64px;
               gap: 10px;
               @media (max-width: 650px) {
                 padding: 16px 64px;
               }
               .text-style {
                 color: #FFF;
-                font-family: 'Manrope', serif;
+                font-family: 'ManropeBold', serif;
                 font-size: 20px;
                 font-style: normal;
                 font-weight: 700;
@@ -550,7 +550,7 @@
             display: flex;
             justify-content: center;
             border-radius: 4px;
-            padding: 8px 16px;
+            padding: 8px 8px;
             border: 1px solid #CFCFCF;
             align-items: center;
             align-self: stretch;

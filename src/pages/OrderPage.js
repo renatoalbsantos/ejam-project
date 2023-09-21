@@ -408,7 +408,7 @@ function OrderPage() {
                                     <Grid
                                         container
                                         direction={"row"}
-                                        style={{marginBottom: "30px"}}
+                                        style={{marginBottom: "28px"}}
                                         alignItems={"center"}
                                     >
                                         <img
