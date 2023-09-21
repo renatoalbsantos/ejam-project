@@ -342,6 +342,7 @@ function OrderPage() {
                                             container
                                             direction={"row"}
                                             className={"container-price-radio"}
+                                            alignItems={"center"}
                                         >
                                             <img
                                                 src={RadioImage}
